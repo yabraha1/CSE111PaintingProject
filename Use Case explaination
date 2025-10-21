@@ -1,0 +1,20 @@
+Use Case	                      Shared By	                        Description
+Search Artworks	                Visitor, Curator	                Visitors search for inspiration; curators search for pieces to exhibit.
+Explore Museums	                Visitor, Curator	                Visitors browse museums to visit; curators explore venues for exhibitions.
+Check Museum Hours	            Visitor, Curator	                Visitors plan visits; curators schedule events and logistics.
+Select Canvas Sizes	            Curator, Administrator	          Curators choose sizes for artworks; administrators manage the catalog.
+Manage Artist Records	          Curator, Administrator	          Curators may update artist info for exhibitions; administrators maintain the database.
+Import/Export Data	            Curator, Administrator	          Curators may bulk upload exhibition data; administrators handle system-wide imports.
+
+Actor	                          Use Case	                        Description
+Visitor	                        View Artist Profiles	            Browse artist details like name, style, nationality, birth/death.
+Visitor	                        Search Artworks	                  Find artworks by artist, style, or canvas size.
+Visitor	                        Explore Museums	                  View museum details including location, contact, and website.
+Visitor	                        Check Museum Hours	              See opening and closing times for each day.
+Curator	                        Assign Artworks to Museums	      Link artworks to specific museums for exhibitions.
+Curator	                        Schedule Exhibitions	            Plan and manage exhibition dates and times.
+Curator	                        Select Canvas Sizes	              Choose appropriate canvas dimensions for artworks.
+Administrator	                  Manage Artist Records	            Add, update, or delete artist information.
+Administrator	                  Manage Museum Data	              Maintain museum addresses, contacts, and URLs.
+Administrator	                  Manage Canvas Size                Catalog	Update available canvas dimensions.
+Administrator	                  Import/Export Data	              Upload or download CSV files for bulk data management.
